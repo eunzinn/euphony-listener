@@ -1,7 +1,7 @@
 # euphony-listener
 Euphony Listener / Euphony Library Demo Solution
 
-## Introduction
+## Introduction (소개)
 Euphony-Listener는 Speaker로부터 음파를 통해 데이터를 받아 인식하는 기능을 합니다.  
 'Euphony-Listener' receives and cognizes data through sound waves from 'Speaker'.  
 
