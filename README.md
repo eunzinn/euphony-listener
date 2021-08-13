@@ -2,7 +2,7 @@
 Euphony Listener / Euphony Library Demo Solution
 
 ## Introduction (소개)
-'Euphony-Listener' receives and cognizes data through sound waves from 'Speaker'.   
+'Euphony-Listener' receives and recognizes data through sound waves from 'Speaker'.   
 The frequency occurs when the speaker sends data. The Listen button is pressed, 'Listener' recognizes the data and you can check the results.  
 It only works on android. 
 
